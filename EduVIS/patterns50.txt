@@ -1,0 +1,14 @@
+[
+['fex', '2203'], ['fex', 'tcomp', '1404'], [['fex', 'am1'], '1336'],
+[['fex', 'al'], '1345'], ['fex', 'aled', '1385'], ['fex', 'arqc', '1331'], ['fex', 'fisica1', '1223'], 
+['iprog', '2037'], [['iprog', 'fex'], '1778'], [['iprog', 'fex'], 'tcomp', '1284'], [['iprog', 'fex', 'am1'], '1222'],
+[['iprog', 'fex', 'al'], '1224'], [['iprog', 'fex'], 'aled', '1309'], [['iprog', 'fex'], 'arqc', '1256'],
+[['iprog', 'sdig'], '1594'], [['iprog', 'sdig', 'fex'], '1497'], [['iprog', 'sdig'], 'aled', '1251'], 
+[['iprog', 'sdig'], 'arqc', '1223'], ['iprog', 'tcomp', '1381'], [['iprog', 'am1'], '1278'], [['iprog', 'al'], '1292'], ['iprog', 'aled', '1411'],
+['iprog', 'arqc', '1338'], ['sdig', '2022'], [['sdig', 'fex'], '1654'], [['sdig', 'fex'], 'tcomp', '1231'], [['sdig', 'fex'], 'aled', '1253'],
+[['sdig', 'fex'], 'arqc', '1230'], ['sdig', 'tcomp', '1347'], [['sdig', 'am1'], '1290'], [['sdig', 'al'], '1286'], ['sdig', 'aled', '1382'], 
+['sdig', 'arqc', '1360'], ['tcomp', '1950'], [['tcomp', 'aled'], '1377'], ['am1', '1945'], ['al', '1938'], ['al', 'tcomp', '1271'], ['al', 'aled', '1224'],
+['aled', '1905'], ['arqc', '1822'], [['arqc', 'tcomp'], '1261'], [['arqc', 'aled'], '1290'], ['fisica1', '1802'], 
+['poo', '1690'], ['am2', '1683'], ['soper', '1613'], ['compg', '1527'], ['iar', '1512'], ['sibd', '1470'],
+['am3', '1428'], ['fisica2', '1370'], ['plf', '1348'], ['pest', '1313']
+]
